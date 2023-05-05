@@ -13,5 +13,7 @@
 - Classe Funcionarios vazia, pratique princípios de OOP utilizando herança nessa classe.
 - Classe Menu, Utilize essa classe para modificar o menu e criar métodos de validação. (Aqui você deve usar o aprendizado de lógica de programação para criar validações.
 
-
-
+### Projetos feitos utilizando essa base
+- [Em breve](https://localhost:0000)
+- [Em breve](https://localhost:0000)
+- [Em breve](https://localhost:0000)
