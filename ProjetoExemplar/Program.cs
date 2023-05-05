@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjetoExemplar.Entities;
+using System;
 
 namespace ProjetoExemplar
 {
@@ -6,7 +7,8 @@ namespace ProjetoExemplar
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Olá!");
+            // Inicia o programa
+            Menu.ShowMenu();
         }
     }
 }
